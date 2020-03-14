@@ -1,0 +1,169 @@
+body{
+color:gray;
+background-image:linear-gradient(white,#778899);
+background-attachment:fixed;
+opacity:0.85;
+margin:0;
+}
+h2{
+text-align:center;
+}
+#container{
+margin:0 auto;
+width:960px;
+}
+#top{
+width:100%;
+height:auto;
+}
+#navi{
+font:16px"Î¢ÈíÑÅºÚ","ºÚÌå";
+background-color:#f0f8ff;
+padding:15px 0px 6px 0px;
+border-bottom:#6495ed 5px solid;
+margin:0 auto;
+width:960px;
+}
+#navi a{
+text-decoration:none;
+padding:0 60px;
+}
+#navi a:link,a:visitied{
+color:#946c59;
+}
+#navi a:hover{
+color:#dcdcdc;
+}
+#main{
+width:960px;
+margin:0 auto;
+font-size:13px;
+line-height:2;
+background:#fefefc;
+}
+#main1_left{
+float:left;
+margin:10px;
+}
+#main a:hover{
+color:#dcdcdc;
+}
+#main a{
+text-decoration:none;
+}
+#main1_right{
+float:left;
+height:auto;
+margin:0px;
+text-align:left;
+
+}
+#main1_right ul{
+float:left;
+margin:0;
+padding:0;
+}
+#main1_right ul li{
+list-style:none;
+font:20px ËÎÌå;
+line-height:2;
+text-align:left;
+}
+#main2{
+height:auto;
+margin:0px;
+font:¿¬Ìå;
+}
+#main2_left{
+float:left;
+margin-left:30px;
+}
+#main2_center{
+float:left;
+margin-left:130px;
+}
+#main2_right{
+float:right;
+margin-right:30px;
+}
+#main3{
+height:auto;
+font-size:14px;
+padding:5px;
+text-align:left;
+margin-left:80px;
+margin-right:80px;
+margin-bottom:10px;
+}
+#main4{
+height:auto;
+margin:0px;
+font:¿¬Ìå;
+}
+#main41_left{
+float:left;
+margin-left:50px;
+margin-right:10px;
+}
+#main41_right{
+float:right;
+margin-right:50px;
+}
+#main42_left{
+float:left;
+margin-left:50px;
+margin-right:10px;
+margin-top:7px;
+}
+#main42_right{
+float:right;
+margin-right:50px;
+margin-top:7px;
+}
+#main43_left{
+float:left;
+margin-left:50px;
+margin-right:10px;
+margin-top:7px;
+}
+#main43_right{
+float:right;
+margin-right:50px;
+margin-top:7px;
+}
+
+#main5 ul{
+margin-left:40px;
+margin-right:40px;
+margin-bottom:10px;
+
+}
+#main5 li{
+font:14px ËÎÌå;
+margin-left:40px;
+margin-right:40px;
+margin-bottom:10px;
+line-height:1.2;
+}
+
+#main6{
+height:auto;
+font-size:14px;
+padding:5px;
+text-align:left;
+margin-left:80px;
+margin-right:80px;
+margin-bottom:10px;
+}
+#foot{
+text-align:center;
+color:black;
+margin-bottom:10px;
+}
+
+
+
+
+
+
+
